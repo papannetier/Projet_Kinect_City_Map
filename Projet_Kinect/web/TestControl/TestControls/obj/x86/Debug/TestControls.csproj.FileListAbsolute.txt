@@ -1,0 +1,183 @@
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\bin\Debug\TestControls.exe
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\bin\Debug\TestControls.pdb
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\bin\Debug\KinectControls.dll
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\bin\Debug\KinectControls.pdb
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\App.g.cs
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\TestControls.exe
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\TestControls.pdb
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\KinectControls.dll
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\KinectControls.pdb
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\App.g.cs
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\App.g.cs
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maxime\Desktop\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maxime\Desktop\TestControls\TestControls\bin\Debug\TestControls.exe
+C:\Users\Maxime\Desktop\TestControls\TestControls\bin\Debug\TestControls.pdb
+C:\Users\Maxime\Desktop\TestControls\TestControls\bin\Debug\KinectControls.dll
+C:\Users\Maxime\Desktop\TestControls\TestControls\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Maxime\Desktop\TestControls\TestControls\bin\Debug\KinectControls.pdb
+C:\Users\Maxime\Desktop\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Maxime\Desktop\TestControls\TestControls\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Maxime\Desktop\TestControls\TestControls\bin\Debug\TestControls.exe.config
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\TestControls.exe.config
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\TestControls.exe
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\TestControls.pdb
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\KinectControls.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\KinectControls.pdb
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\App.g.cs
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\TestControls.exe.config
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\TestControls.exe
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\TestControls.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\Kinect.Toolbox.dll
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\KinectControls.dll
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\KinectControls.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\nouveau test\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\bin\Debug\TestControls.exe.config
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\bin\Debug\TestControls.exe
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\bin\Debug\TestControls.pdb
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\bin\Debug\KinectControls.dll
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\bin\Debug\KinectControls.pdb
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\bin\Debug\Microsoft.Speech.dll
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\bin\Debug\Microsoft.Speech.VoiceXml.dll
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\User\Desktop\KINECT\TestControls\TestControls\obj\x86\Debug\TestControls.csproj.ResolveComReference.cache
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.exe.config
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.csproj.ResolveComReference.cache
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.exe
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\bin\Debug\KinectControls.dll
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.dll
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.VoiceXml.dll
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\bin\Debug\KinectControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.VoiceXml.xml
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\App.g.cs
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.exe.config
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.exe
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.pdb
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\bin\Debug\KinectControls.dll
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.dll
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.VoiceXml.dll
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\bin\Debug\KinectControls.pdb
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.VoiceXml.xml
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.exe.config
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.csproj.ResolveComReference.cache
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.exe
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.exe
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\bin\Debug\TestControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\bin\Debug\KinectControls.dll
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.dll
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.VoiceXml.dll
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\bin\Debug\KinectControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\bin\Debug\Microsoft.Speech.VoiceXml.xml
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\MainWindow.baml
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\App.g.cs
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls_MarkupCompile.cache
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.g.resources
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\TestControls.Properties.Resources.resources
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\TestControls\obj\x86\Debug\GenerateResource.write.1.tlog

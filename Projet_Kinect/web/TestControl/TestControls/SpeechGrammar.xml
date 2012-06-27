@@ -1,0 +1,154 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>CORRECTION</tag>
+        <one-of>
+          <item>correction</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>INITIALISE</tag>
+        <one-of>
+          <item>initialise</item>
+          <item>reset</item>
+          <item>mise à zero</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>Paris</tag>
+        <one-of>
+          <item>paris</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>LILLE</tag>
+        <one-of>
+          <item>lille</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>AIX</tag>
+        <one-of>
+          <item>aix</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>LYON</tag>
+        <one-of>
+          <item>lyon</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>NANCY</tag>
+        <one-of>
+          <item>nancy</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>BORDEAUX</tag>
+        <one-of>
+          <item>bordeaux</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>TOULOUSE</tag>
+        <one-of>
+          <item>toulouse</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>NANTES</tag>
+        <one-of>
+          <item>nantes</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ORLEANS</tag>
+        <one-of>
+          <item>orleans</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RENNES</tag>
+        <one-of>
+          <item>rennes</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>NEXT</tag>
+        <one-of>
+          <item>next</item>
+          <item>suivant</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>PREVIOUS</tag>
+        <one-of>
+          <item>previous</item>
+          <item>précédent</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZONE1</tag>
+        <one-of>
+          <item>zone one</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZONE2</tag>
+        <one-of>
+          <item>zone two</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZONE3</tag>
+        <one-of>
+          <item>zone three</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZONE4</tag>
+        <one-of>
+          <item>zone four</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZONE5</tag>
+        <one-of>
+          <item>zone five</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZONE6</tag>
+        <one-of>
+          <item>zone six</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZONE7</tag>
+        <one-of>
+          <item>zone seven</item>
+        </one-of>
+      </item>      
+    <item>
+      <tag>ZONE10</tag>
+      <one-of>
+        <item>zone ten</item>
+      </one-of>
+    </item>
+      <item>
+        <tag>ZONE9</tag>
+        <one-of>
+          <item>zone nine</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZONE8</tag>
+        <one-of>
+          <item>zone eight</item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,146 @@
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\bin\Debug\KinectControls.dll
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\HoverButton.baml
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls.dll
+c:\users\tess\documents\visual studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls.pdb
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\Tess\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\KinectControls.dll
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\HoverButton.baml
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls.dll
+C:\Users\tferrand\Documents\Visual Studio 2010\Projects\TestControls\KinectControls\obj\Debug\KinectControls.pdb
+C:\Users\Maxime\Desktop\TestControls\KinectControls\bin\Debug\KinectControls.dll
+C:\Users\Maxime\Desktop\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+C:\Users\Maxime\Desktop\TestControls\KinectControls\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Maxime\Desktop\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Maxime\Desktop\TestControls\KinectControls\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\HoverButton.baml
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\KinectControls.dll
+C:\Users\Maxime\Desktop\TestControls\KinectControls\obj\Debug\KinectControls.pdb
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\bin\Debug\KinectControls.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\HoverButton.baml
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\KinectControls.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\obj\Debug\KinectControls.pdb
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Maxime\Desktop\SVN PPD KINECT\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\bin\Debug\KinectControls.dll
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\bin\Debug\Kinect.Toolbox.dll
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\HoverButton.baml
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\KinectControls.dll
+C:\Users\admin\Desktop\nouveau test\TestControls\KinectControls\obj\Debug\KinectControls.pdb
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\bin\Debug\KinectControls.dll
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\HoverButton.baml
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\KinectControls.dll
+C:\Users\User\Desktop\KINECT\TestControls\KinectControls\obj\Debug\KinectControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\bin\Debug\KinectControls.dll
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\HoverButton.baml
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.dll
+C:\Users\Raïmy\Desktop\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.pdb
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\bin\Debug\KinectControls.dll
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\HoverButton.baml
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.dll
+C:\Users\User\Desktop\KINECT\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\bin\Debug\KinectControls.dll
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\bin\Debug\KinectControls.pdb
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\HandCursor.baml
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\HoverButton.baml
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\HandCursor.g.cs
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\HoverButton.g.cs
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls_MarkupCompile.cache
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.g.resources
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.Properties.Resources.resources
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.dll
+C:\Users\Raïmy\Desktop\TestControlsMax24062012\TestControlsMax\TestControls\KinectControls\obj\Debug\KinectControls.pdb

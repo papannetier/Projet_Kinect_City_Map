@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="KinectControls.HoverButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="200">
+    <Grid Background="{Binding BackgroundColor}">
+        <Image Source="{Binding Image}" Stretch="Fill"/>
+        <TextBlock Text="{Binding Text}" FontSize="{Binding TextSize}" Foreground="{Binding TextColor}" FontFamily="Segoe UI" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <!--<Rectangle Name="Mask" Fill="{Binding HoverColor}" Width="{Binding Width}" Opacity="0.3" RenderTransformOrigin="0,0" Height="0" HorizontalAlignment="Left" VerticalAlignment="Top"/>-->
+    </Grid>
+</UserControl>
